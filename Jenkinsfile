@@ -8,7 +8,7 @@ pipeline{
 			}
 			
 			steps{
-				echo "Hello World changeset JS'
+				echo "Hello World changeset JS"
 			}
 		}
 	}
